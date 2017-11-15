@@ -1,0 +1,97 @@
+/* Navbar */
+
+#sticky{
+    box-shadow: 0px 1px 10px #888888;
+    z-index: 10;
+}
+
+ul {
+	padding-top: 75vh;
+}
+li {
+	color: rgba(0,0,0,0);
+}
+
+i {
+	color: rgba(242,216,132,0.4);
+}
+
+.active i{
+	color: rgba(242,216,132,1);
+}
+
+#logo{
+    width: 150px;
+    padding-top: 0.4%;
+    padding-left: 4%;
+    padding-bottom: .7%;
+}
+
+#title{
+    color: rgb(242,216,132);
+    padding-top: .5%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 180%;
+    font-weight: 800;
+}
+
+#time{
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(166,168,171);
+}
+
+/* Body */
+
+.background{
+    
+    height: 100vh;
+}
+
+
+.stuck {
+  position:fixed;
+  top:0;
+}
+
+#bg{
+    
+background: url('../img/pat.png');
+background-color: rgba(239, 244, 252,0.5);
+background-repeat: no-repeat;
+background-attachment: fixed;   
+background-size:cover;
+}
+
+.section .frame{
+    
+    pointer-events: none;
+    vertical-align: middle;
+    border: solid;
+    border-color: white;
+    border-width: 20px 20px 20px 20px;
+    border-spacing: 80px;
+    width:93%;
+	box-shadow: 0px 1px 10px #888888;
+}
+
+.section{
+    
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 80px;
+    
+}
+
+.section #lock{}
+
+
+/* Fifteen Minutes */
+
+
+
+/* Thirty Minutes */
+
+
+	
+	
